@@ -1,0 +1,18 @@
+---
+object: set
+id: cf25354d-817d-4756-b786-604ac93ba3b7
+code: tmor
+name: Morningtide Tokens
+uri: https://api.scryfall.com/sets/cf25354d-817d-4756-b786-604ac93ba3b7
+scryfall_uri: https://scryfall.com/sets/tmor
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmor&unique=prints
+released_at: '2008-02-01'
+set_type: token
+card_count: 3
+parent_set_code: mor
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: lrw
+block: Lorwyn
+icon_svg_uri: https://svgs.scryfall.io/sets/mor.svg?1694404800
